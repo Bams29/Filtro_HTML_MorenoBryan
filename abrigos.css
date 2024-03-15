@@ -1,0 +1,378 @@
+
+.container h1{
+    position: absolute;
+    left: 4vi;
+    top: 2vi;
+    font-size: 2vi;
+}
+
+*{
+    text-decoration: none;
+}
+
+.a{
+    position: absolute;
+    font-size: 1.4vi;
+    top: 11vi;
+    left: 5vi;
+    color: black;
+}
+
+.a:hover{
+    color: rgb(54, 52, 52);
+}
+
+.a2{
+    position: absolute;
+    font-size: 1.4vi;
+    top: 15vi;
+    left: 5vi;
+    color: black;
+    padding: 0.5vi;
+    width: 19vi;
+    border-radius: 1vi;
+    background-color: rgb(211, 209, 206);
+}
+
+.a2:hover{
+    color: rgb(54, 52, 52);
+}
+
+.a3{
+    position: absolute;
+    font-size: 1.4vi;
+    top: 19vi;
+    left: 5vi;
+    color: black;
+}
+
+.a3:hover{
+    color: rgb(54, 52, 52);
+}
+
+.a4{
+    position: absolute;
+    font-size: 1.4vi;
+    top: 23vi;
+    left: 5vi;
+    color: black;
+}
+
+.a4:hover{
+    color: rgb(54, 52, 52);
+}
+
+.a5{
+    position: absolute;
+    font-size: 1.4vi;
+    top: 35vi;
+    left: 5vi;
+    color: black;
+}
+
+.a5:hover{
+    color: rgb(54, 52, 52);
+}
+
+.p1{
+    position: absolute;
+    top: 33vi;
+    left: 12vi;
+    font-size: 1.4vi;
+    padding: 0.4vi;
+    border: solid;
+    border-radius: 0.5vi;
+}
+
+footer{
+    position: absolute;
+    top: 43vi;
+    left: 4.5vi;
+    font-size: 1.4vi;
+}
+
+/*donde van los productos*/
+
+.container2{
+    position: absolute;
+    border: solid;
+    left: 25vi;
+    top: 3vi;
+    width: 71.5vi;
+    height: 50vi;
+    border-radius: 2vi;
+    overflow-y: scroll;
+}
+
+.container2 h1{
+    position: absolute;
+    font-size: 2vi;
+    top: vi;
+    left: 2vi;
+    color: black;
+}
+
+/*contenido*/
+
+.prod1{
+    position: absolute;
+    border: solid;
+    border-radius: 2vi;
+    left: 2vi;
+    width: 15vi;
+    top: 5vi;
+    height: 18vi;
+}
+
+.prod1 img{
+    width: 15vi;
+    height: 17vi;
+    border-radius: 2vi;
+}
+
+.prod1 .div1{
+    position: absolute;
+    border: solid;
+    top: 16vi;
+    background-color: rgb(206, 200, 200);
+    width: 15vi;
+    height: 5vi;
+    border-radius: 1.5vi;
+}
+
+.div1 .p2{
+    position: absolute;
+    font-size: 1vi;
+    width: 12vi;
+    left: 1vi;
+    bottom: 1vi;
+}
+
+.div1 .p3{
+    position: absolute;
+    font-size: 1vi;
+    width: 12vi;
+    left: 1.4vi;
+    top: 2.4vi;
+}
+
+.div1 button{
+    position: absolute;
+    top: 3.2vi;
+    left: 7vi;
+    width: 6vi;
+    height: 1.5vi;
+    border-radius: 1vi;
+}
+
+/*porducto 2*/
+
+.prod2{
+    position: absolute;
+    border: solid;
+    border-radius: 2vi;
+    left: 19.5vi;
+    width: 15vi;
+    top: 5vi;
+    height: 18vi;
+}
+
+.prod2 img{
+    width: 15vi;
+    height: 17vi;
+    border-radius: 2vi;
+}
+
+.prod2 .div2{
+    position: absolute;
+    border: solid;
+    top: 16vi;
+    background-color: rgb(206, 200, 200);
+    width: 15vi;
+    height: 5vi;
+    border-radius: 1.5vi;
+}
+
+.div2 .p4{
+    position: absolute;
+    font-size: 1vi;
+    width: 12vi;
+    left: 1vi;
+    bottom: 1vi;
+}
+
+.div2 .p5{
+    position: absolute;
+    font-size: 1vi;
+    width: 12vi;
+    left: 1.4vi;
+    top: 2.4vi;
+}
+
+.div2 button{
+    position: absolute;
+    top: 3.2vi;
+    left: 7vi;
+    width: 6vi;
+    height: 1.5vi;
+    border-radius: 1vi;
+}
+
+/*producto 3*/
+
+.prod3{
+    position: absolute;
+    border: solid;
+    border-radius: 2vi;
+    left: 37vi;
+    width: 15vi;
+    top: 5vi;
+    height: 18vi;
+}
+
+.prod3 img{
+    width: 15vi;
+    height: 17vi;
+    border-radius: 2vi;
+}
+
+.prod3 .div3{
+    position: absolute;
+    border: solid;
+    top: 16vi;
+    background-color: rgb(206, 200, 200);
+    width: 15vi;
+    height: 5vi;
+    border-radius: 1.5vi;
+}
+
+.div3 .p6{
+    position: absolute;
+    font-size: 1vi;
+    width: 12vi;
+    left: 1vi;
+    bottom: 1vi;
+}
+
+.div3 .p7{
+    position: absolute;
+    font-size: 1vi;
+    width: 12vi;
+    left: 1.4vi;
+    top: 2.4vi;
+}
+
+.div3 button{
+    position: absolute;
+    top: 3.2vi;
+    left: 7vi;
+    width: 6vi;
+    height: 1.5vi;
+    border-radius: 1vi;
+}
+
+/*producto 4*/
+
+.prod4{
+    position: absolute;
+    border: solid;
+    border-radius: 2vi;
+    left: 54vi;
+    width: 15vi;
+    top: 5vi;
+    height: 18vi;
+}
+
+.prod4 img{
+    width: 15vi;
+    height: 17vi;
+    border-radius: 2vi;
+}
+
+.prod4 .div4{
+    position: absolute;
+    border: solid;
+    top: 16vi;
+    background-color: rgb(206, 200, 200);
+    width: 15vi;
+    height: 5vi;
+    border-radius: 1.5vi;
+}
+
+.div4 .p8{
+    position: absolute;
+    font-size: 1vi;
+    width: 12vi;
+    left: 1vi;
+    bottom: 1vi;
+}
+
+.div4 .p9{
+    position: absolute;
+    font-size: 1vi;
+    width: 12vi;
+    left: 1.4vi;
+    top: 2.4vi;
+}
+
+.div4 button{
+    position: absolute;
+    top: 3.2vi;
+    left: 7vi;
+    width: 6vi;
+    height: 1.5vi;
+    border-radius: 1vi;
+}
+
+/*producto 5*/
+
+.prod5{
+    position: absolute;
+    border: solid;
+    border-radius: 2vi;
+    left: 2vi;
+    width: 15vi;
+    top: 27.5vi;
+    height: 18vi;
+}
+
+.prod5 img{
+    width: 15vi;
+    height: 17vi;
+    border-radius: 2vi;
+}
+
+.prod5 .div5{
+    position: absolute;
+    border: solid;
+    top: 16vi;
+    background-color: rgb(206, 200, 200);
+    width: 15vi;
+    height: 5vi;
+    border-radius: 1.5vi;
+}
+
+.div5 .p10{
+    position: absolute;
+    font-size: 1vi;
+    width: 12vi;
+    left: 1vi;
+    bottom: 1vi;
+}
+
+.div5 .p11{
+    position: absolute;
+    font-size: 1vi;
+    width: 12vi;
+    left: 1.4vi;
+    top: 2.4vi;
+}
+
+.div5 button{
+    position: absolute;
+    top: 3.2vi;
+    left: 7vi;
+    width: 6vi;
+    height: 1.5vi;
+    border-radius: 1vi;
+}
