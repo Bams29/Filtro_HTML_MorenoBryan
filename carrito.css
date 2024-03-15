@@ -1,0 +1,295 @@
+
+.container h1{
+    position: absolute;
+    left: 4vi;
+    top: 2vi;
+    font-size: 2vi;
+}
+
+*{
+    text-decoration: none;
+}
+
+.a{
+    position: absolute;
+    font-size: 1.4vi;
+    top: 11vi;
+    left: 5vi;
+    color: black;
+}
+
+.a:hover{
+    color: rgb(54, 52, 52);
+}
+
+.a2{
+    position: absolute;
+    font-size: 1.4vi;
+    top: 15vi;
+    left: 5vi;
+    color: black;
+}
+
+.a2:hover{
+    color: rgb(54, 52, 52);
+}
+
+.a3{
+    position: absolute;
+    font-size: 1.4vi;
+    top: 19vi;
+    left: 5vi;
+    color: black;
+
+}
+
+.a3:hover{
+    color: rgb(54, 52, 52);
+}
+
+.a4{
+    position: absolute;
+    font-size: 1.4vi;
+    top: 23vi;
+    left: 5vi;
+    color: black;
+
+}
+
+.a4:hover{
+    color: rgb(54, 52, 52);
+}
+
+.a5{
+    position: absolute;
+    font-size: 1.4vi;
+    top: 35vi;
+    left: 5vi;
+    color: black;
+    padding: 0.5vi;
+    width: 19vi;
+    border-radius: 1vi;
+    background-color: rgb(211, 209, 206);
+}
+
+.a5:hover{
+    color: rgb(54, 52, 52);
+}
+
+.p1{
+    position: absolute;
+    top: 33.5vi;
+    left: 12vi;
+    font-size: 1.4vi;
+    padding: 0.4vi;
+    border: solid;
+    border-radius: 0.5vi;
+}
+
+footer{
+    position: absolute;
+    top: 43vi;
+    left: 4.5vi;
+    font-size: 1.4vi;
+}
+
+/*donde van los productos*/
+
+.container2{
+    position: absolute;
+    border: solid;
+    left: 25vi;
+    top: 3vi;
+    width: 71.5vi;
+    height: 50vi;
+    border-radius: 2vi;
+    overflow-y: scroll;
+}
+
+.container2 h1{
+    position: absolute;
+    font-size: 2vi;
+    top: vi;
+    left: 2vi;
+    color: black;
+}
+
+/*contenido*/
+
+.prod1{
+    position: absolute;
+    border: solid;
+    border-radius: 2vi;
+    left: 2vi;
+    width: 67vi;
+    top: 5vi;
+    height: 10vi;
+}
+
+.prod1 img{
+    position: absolute;
+    left: 2vi;
+    width: 9vi;
+    height: 9vi;
+    border-radius: 2vi;
+}
+
+.div1 label{
+    position: absolute;
+    font-size: 1.4vi;
+    left: 30vi;
+    top: 2.5vi;
+}
+
+.div1 input{
+    position: absolute;
+    left: 30vi;
+    top: 5vi;
+    border: solid;
+    height: 1vi;
+    width: 7vi;
+}
+
+.div1 .p2{
+    position: absolute;
+    font-size: 1.4vi;
+    width: 12vi;
+    left: 12vi;
+    bottom: 1.4vi;
+}
+
+.div1 .p3{
+    position: absolute;
+    font-size: 1.4vi;
+    width: 12vi;
+    left: 42vi;
+    top: 1vi;
+}
+
+.div1 .p4{
+    position: absolute;
+    font-size: 1.4vi;
+    width: 12vi;
+    left: 55vi;
+    top: 1vi;
+}
+
+/*porducto 2*/
+
+.prod2{
+    position: absolute;
+    border: solid;
+    border-radius: 2vi;
+    left: 2vi;
+    width: 67vi;
+    top: 17vi;
+    height: 10vi;
+}
+
+.prod2 img{
+    position: absolute;
+    left: 2vi;
+    width: 9vi;
+    height: 9vi;
+    border-radius: 2vi;
+}
+
+.div2 label{
+    position: absolute;
+    font-size: 1.4vi;
+    left: 30vi;
+    top: 2.5vi;
+}
+
+.div2 input{
+    position: absolute;
+    left: 30vi;
+    top: 5vi;
+    border: solid;
+    height: 1vi;
+    width: 7vi;
+}
+
+.div2 .p5{
+    position: absolute;
+    font-size: 1.4vi;
+    width: 12vi;
+    left: 12vi;
+    bottom: 1vi;
+}
+
+.div2 .p6{
+    position: absolute;
+    font-size: 1.4vi;
+    width: 12vi;
+    left: 42vi;
+    top: 1vi;
+}
+
+.div2 .p7{
+    position: absolute;
+    font-size: 1.4vi;
+    width: 12vi;
+    left: 55vi;
+    top: 1vi;
+}
+
+/*producto 3*/
+
+.prod3{
+    position: absolute;
+    border: solid;
+    border-radius: 2vi;
+    left: 2vi;
+    width: 67vi;
+    top: 29vi;
+    height: 10vi;
+}
+
+.prod3 img{
+    position: absolute;
+    left: 2vi;
+    width: 9vi;
+    height: 9vi;
+    border-radius: 2vi;
+}
+
+.div3 label{
+    position: absolute;
+    font-size: 1.4vi;
+    left: 30vi;
+    top: 2.5vi;
+}
+
+.div3 input{
+    position: absolute;
+    left: 30vi;
+    top: 5vi;
+    border: solid;
+    height: 1vi;
+    width: 7vi;
+}
+
+.div3 .p8{
+    position: absolute;
+    font-size: 1.4vi;
+    width: 12vi;
+    left: 12vi;
+    bottom: 1vi;
+}
+
+.div3 .p9{
+    position: absolute;
+    font-size: 1.4vi;
+    width: 12vi;
+    left: 42vi;
+    top: 1vi;
+}
+
+.div3 .p10{
+    position: absolute;
+    font-size: 1.4vi;
+    width: 12vi;
+    left: 55vi;
+    top: 1vi;
+}
