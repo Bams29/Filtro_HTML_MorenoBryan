@@ -16,10 +16,6 @@
     top: 11vi;
     left: 5vi;
     color: black;
-    padding: 0.5vi;
-    width: 19vi;
-    border-radius: 1vi;
-    background-color: rgb(211, 209, 206);
 }
 
 .a:hover{
@@ -44,6 +40,7 @@
     top: 19vi;
     left: 5vi;
     color: black;
+
 }
 
 .a3:hover{
@@ -56,6 +53,10 @@
     top: 23vi;
     left: 5vi;
     color: black;
+    padding: 0.5vi;
+    width: 19vi;
+    border-radius: 1vi;
+    background-color: rgb(211, 209, 206);
 }
 
 .a4:hover{
@@ -369,166 +370,6 @@ footer{
 }
 
 .div5 button{
-    position: absolute;
-    top: 3.2vi;
-    left: 7vi;
-    width: 6vi;
-    height: 1.5vi;
-    border-radius: 1vi;
-}
-
-
-/*producto 6*/
-
-.prod6{
-    position: absolute;
-    border: solid;
-    border-radius: 2vi;
-    left: 19.5vi;
-    width: 15vi;
-    top: 27.5vi;
-    height: 18vi;
-}
-
-.prod6 img{
-    width: 15vi;
-    height: 17vi;
-    border-radius: 2vi;
-}
-
-.prod6 .div6{
-    position: absolute;
-    border: solid;
-    top: 16vi;
-    background-color: rgb(206, 200, 200);
-    width: 15vi;
-    height: 5vi;
-    border-radius: 1.5vi;
-}
-
-.div6 .p12{
-    position: absolute;
-    font-size: 1vi;
-    width: 12vi;
-    left: 1vi;
-    bottom: 1vi;
-}
-
-.div6 .p13{
-    position: absolute;
-    font-size: 1vi;
-    width: 12vi;
-    left: 1.4vi;
-    top: 2.4vi;
-}
-
-.div6 button{
-    position: absolute;
-    top: 3.2vi;
-    left: 7vi;
-    width: 6vi;
-    height: 1.5vi;
-    border-radius: 1vi;
-}
-
-/*producto 7*/
-
-.prod7{
-    position: absolute;
-    border: solid;
-    border-radius: 2vi;
-    left: 37vi;
-    width: 15vi;
-    top: 27.5vi;
-    height: 18vi;
-}
-
-.prod7 img{
-    width: 15vi;
-    height: 17vi;
-    border-radius: 2vi;
-}
-
-.prod7 .div7{
-    position: absolute;
-    border: solid;
-    top: 16vi;
-    background-color: rgb(206, 200, 200);
-    width: 15vi;
-    height: 5vi;
-    border-radius: 1.5vi;
-}
-
-.div7 .p14{
-    position: absolute;
-    font-size: 1vi;
-    width: 12vi;
-    left: 1vi;
-    bottom: 1vi;
-}
-
-.div7 .p15{
-    position: absolute;
-    font-size: 1vi;
-    width: 12vi;
-    left: 1.4vi;
-    top: 2.4vi;
-}
-
-.div7 button{
-    position: absolute;
-    top: 3.2vi;
-    left: 7vi;
-    width: 6vi;
-    height: 1.5vi;
-    border-radius: 1vi;
-}
-
-/*producto 8*/
-
-.prod8{
-    position: absolute;
-    border: solid;
-    border-radius: 2vi;
-    left: 54vi;
-    width: 15vi;
-    top: 27.5vi;
-    height: 18vi;
-}
-
-.prod8 img{
-    width: 15vi;
-    height: 17vi;
-    border-radius: 2vi;
-}
-
-.prod8 .div8{
-    position: absolute;
-    border: solid;
-    top: 16vi;
-    background-color: rgb(206, 200, 200);
-    width: 15vi;
-    height: 5vi;
-    border-radius: 1.5vi;
-}
-
-.div8 .p16{
-    position: absolute;
-    font-size: 1vi;
-    width: 12vi;
-    left: 1vi;
-    bottom: 1vi;
-}
-
-.div8 .p17{
-    position: absolute;
-    font-size: 1vi;
-    width: 12vi;
-    left: 1.4vi;
-    top: 2.4vi;
-}
-
-.div8 button{
     position: absolute;
     top: 3.2vi;
     left: 7vi;
