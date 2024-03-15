@@ -97,6 +97,7 @@ footer{
     width: 71.5vi;
     height: 50vi;
     border-radius: 2vi;
+    overflow-y: scroll;
 }
 
 .container2 h1{
