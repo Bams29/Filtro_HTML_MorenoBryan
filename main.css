@@ -1,0 +1,80 @@
+
+.container h1{
+    position: absolute;
+    left: 4vi;
+    top: 2vi;
+    font-size: 2vi;
+}
+
+*{
+    text-decoration: none;
+}
+
+.a{
+    position: absolute;
+    font-size: 1.4vi;
+    top: 11vi;
+    left: 5vi;
+    color: black;
+}
+
+.a:hover{
+    color: rgb(54, 52, 52);
+}
+
+.a2{
+    position: absolute;
+    font-size: 1.4vi;
+    top: 15vi;
+    left: 5vi;
+    color: black;
+}
+
+.a2:hover{
+    color: rgb(54, 52, 52);
+}
+
+.a3{
+    position: absolute;
+    font-size: 1.4vi;
+    top: 19vi;
+    left: 5vi;
+    color: black;
+}
+
+.a3:hover{
+    color: rgb(54, 52, 52);
+}
+
+.a4{
+    position: absolute;
+    font-size: 1.4vi;
+    top: 23vi;
+    left: 5vi;
+    color: black;
+}
+
+.a4:hover{
+    color: rgb(54, 52, 52);
+}
+
+.a5{
+    position: absolute;
+    font-size: 1.4vi;
+    top: 35vi;
+    left: 5vi;
+    color: black;
+}
+
+.a5:hover{
+    color: rgb(54, 52, 52);
+}
+
+.p1{
+    position: absolute;
+    top: 35vi;
+    font-size: 1.7vi;
+    padding: 0.4vi;
+    border: solid;
+    border-radius: 0.5vi;
+}
