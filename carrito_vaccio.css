@@ -46,3 +46,49 @@
 .a3:hover{
     color: rgb(54, 52, 52);
 }
+
+.a4{
+    position: absolute;
+    font-size: 1.4vi;
+    top: 23vi;
+    left: 5vi;
+    color: black;
+
+}
+
+.a4:hover{
+    color: rgb(54, 52, 52);
+}
+
+.a5{
+    position: absolute;
+    font-size: 1.4vi;
+    top: 35vi;
+    left: 5vi;
+    color: black;
+    padding: 0.5vi;
+    width: 19vi;
+    border-radius: 1vi;
+    background-color: rgb(211, 209, 206);
+}
+
+.a5:hover{
+    color: rgb(54, 52, 52);
+}
+
+.p1{
+    position: absolute;
+    top: 33.5vi;
+    left: 12vi;
+    font-size: 1.4vi;
+    padding: 0.4vi;
+    border: solid;
+    border-radius: 0.5vi;
+}
+
+footer{
+    position: absolute;
+    top: 43vi;
+    left: 4.5vi;
+    font-size: 1.4vi;
+}
