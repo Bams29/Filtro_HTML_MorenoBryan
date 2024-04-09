@@ -126,3 +126,29 @@ footer{
     width: 12vi;
     background-color: green;
 }
+
+.div4{
+    position: absolute;
+    background-color: antiquewhite;
+    width: 20vi;
+    border-radius: 1vi;
+    top: 45vi;
+    left: 74vi;
+}
+
+.div4 .butt2{
+    position: absolute;
+    top: 2vi;
+    left: 8vi;
+    height: 2vi;
+    font-size: 1vi;
+    border-radius: 1vi;
+    width: 11vi;
+    background-color: green;
+}
+
+.div4 .p11{
+    position: relative;
+    font-size: 1.2vi;
+    left: 1.5vi;
+}
