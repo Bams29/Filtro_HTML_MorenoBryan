@@ -92,3 +92,37 @@ footer{
     left: 4.5vi;
     font-size: 1.4vi;
 }
+
+/*donde debetian ir los productos*/
+
+.container2{
+    position: absolute;
+    border: solid;
+    left: 25vi;
+    top: 3vi;
+    width: 71.5vi;
+    height: 50vi;
+    border-radius: 2vi;
+    overflow-y: scroll;
+}
+
+.container2 h1{
+    position: absolute;
+    font-size: 2vi;
+    top: vi;
+    left: 2vi;
+    color: black;
+}
+
+/*botones*/
+
+.container3 .butt{
+    position: absolute;
+    top: 45vi;
+    left: 28vi;
+    height: 3vi;
+    font-size: 1.4vi;
+    border-radius: 1vi;
+    width: 12vi;
+    background-color: green;
+}
